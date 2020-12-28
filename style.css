@@ -1,0 +1,522 @@
+.bg-light{
+    background-color: white !important;
+}
+.navbar-nav{
+    margin-left: 60%;
+}
+.navbar-light .navbar-nav .nav-link{
+    /* font-family: Fira Sans Condensed; */
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+}
+.dropdown-menu.show{
+    background-color: #1D1C30;
+    
+}
+.dropdown-item{
+    color:white !important;
+}
+.heroImg{
+    position: absolute;
+width: 1523px;
+height: 562px;
+left: -5px;
+top: 149px;
+
+background: url(images/h1.JPG);
+}
+.homeHeader .bg{
+    position: absolute;
+    width: 795px;
+    height: 435px;
+    left: 0px;
+    top: 210px;
+
+    background: rgba(28, 29, 48, 0.5);
+}
+.homeHeader h1{
+    position: absolute;
+    width: 680px;
+    height: 56px;
+    left: 122px;
+    top: 254px;
+
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+.homeHeader p{
+    position: absolute;
+    width: 615px;
+    height: 191px;
+    left: 126px;
+    top: 324px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: 0.02em;
+    
+    color: #FFFFFF;
+     
+}
+.homeHeader .btn-primary{
+    position: absolute;
+    width: 205px;
+    height: 55px;
+    left: 122px;
+    top: 543px;
+
+background: #E36F1E;
+border-radius: 4px;
+}
+/* .homeHeader{
+    width: 100%;
+    height:562px;
+    background-color: #0a0a0c;
+} */
+
+.btn-primary{
+    position: absolute;
+    width: 205px;
+    height: 55px;
+    left: 122px;
+    top: 70%;
+    background: #E36F1E;
+    border-radius: 4px;
+}
+.ourImpact h2{
+    position: absolute;
+    width: 258px;
+    height: 58px;
+    left: 832px;
+    top: 824px;
+
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+    letter-spacing: 0.02em;
+
+color: #000000;
+}
+.ourImpact p{
+    position: absolute;
+    width: 482px;
+    height: 117px;
+    left: 838px;
+    top: 898px;
+
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 0.02em;
+
+    color: #000000;
+
+}
+.impactBg{
+    position: absolute;
+    width: 1115px;
+    height: 739px;
+    left: 0px;
+    top: 787px;
+    background: rgba(227, 111, 30, 0.05);
+}
+.impactImg{
+    position: absolute;
+    width: 807px;
+    height: 538px;
+    left: 1px;
+    top: 763px;
+    background: url(images/oi.jpg);
+}
+.ourImpact .btn-primary{
+    position: absolute;
+    width: 205px;
+    height: 55px;
+    left: 838px;
+    top: 1035px;
+
+    background: #1C1D30;
+    border-radius: 4px;
+}
+.howWeHelp h2{
+    position: absolute;
+    width: 327px;
+    height: 14px;
+    left: 571.25px;
+    top: 1460px;
+
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 16px;
+    /* or 33% */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #000000;
+
+}
+.howWeHelp .card1{
+    position: absolute;
+    width: 277px;
+    height: 403px;
+    left: 1042px;
+    top: 1566px;
+    
+    background: url(images/hr.jpg);
+    border-radius: 6px;
+
+}
+.howWeHelp .card2{
+    position: absolute;
+    width: 277px;
+    height: 403px;
+    left: 736px;
+    top: 1566px;
+    
+    background: url(images/hp.jpg);
+    border-radius: 6px;
+
+}
+.howWeHelp .card3{
+    position: absolute;
+    width: 276px;
+    height: 403px;
+    left: 428px;
+    top: 1566px;
+    
+    background: url(images/ge.jpg);
+    border-radius: 6px;
+
+}
+.howWeHelp .card4{
+    position: absolute;
+    width: 277.25px;
+    height: 403.46px;
+    left: 120px;
+    top: 1565.54px;
+    
+ 
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+    background: url(images/ej.jpg)
+
+}
+.latestNews .bg{
+    position: absolute;
+    width: 976px;
+    height: 284px;
+    left: 464px;
+    top: 2122px;
+    
+    background: rgba(227, 111, 30, 0.05);
+}
+.latestNews h2{
+    position: absolute;
+    width: 277.58px;
+    height: 16px;
+    left: 572.19px;
+    top: 2225px;
+
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 16px;
+    /* identical to box height, or 33% */
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+
+    color: #000000;
+}
+.latestNews .card1 .img{
+    position: absolute;
+width: 381px;
+height: 378px;
+left: 120px;
+top: 2316px;
+
+background: url(images/l1.jpg);
+border-radius: 0px;
+}
+.latestNews .card1 .title{
+    position: absolute;
+width: 346px;
+height: 27px;
+left: 120px;
+top: 2713px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.latestNews .card1 .date{
+    position: absolute;
+width: 80px;
+height: 17px;
+left: 120px;
+top: 2741px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+}
+.latestNews .card1 .content{
+    position: absolute;
+width: 327px;
+height: 49px;
+left: 120px;
+top: 2771px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.latestNews .card1 .readmore{
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 120px;
+    top: 2831px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+}
+.latestNews .card2 .img{
+
+    position: absolute;
+    width: 381px;
+    height: 378px;
+    left: 530px;
+    top: 2316px;
+    
+    background: url(images/l2.jpg);
+    border-radius: 0px;
+}
+.latestNews .card2 .title{
+    position: absolute;
+width: 346px;
+height: 27px;
+left: 530px;
+top: 2713px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+.latestNews .card2 .date{
+    position: absolute;
+width: 85px;
+height: 17px;
+left: 530px;
+top: 2740px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+}
+.latestNews .card2 .content{
+    position: absolute;
+    width: 327px;
+    height: 49px;
+    left: 530px;
+    top: 2771px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+}
+.latestNews .card2 .readmore{
+    position: absolute;
+width: 90px;
+height: 22px;
+left: 530px;
+top: 2831px;
+
+font-family: Fira Sans Condensed;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+.latestNews .card3 .img{
+    position: absolute;
+    width: 381px;
+    height: 378px;
+    left: 942px;
+    top: 2316px;
+    
+    background: url(images/l3.jpg);
+}
+.latestNews .card3 .title{
+    position: absolute;
+    width: 346px;
+    height: 27px;
+    left: 942px;
+    top: 2713px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+}
+.latestNews .card3 .date{
+    position: absolute;
+    width: 85px;
+    height: 17px;
+    left: 942px;
+    top: 2740px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+}
+.latestNews .card3 .content{
+    position: absolute;
+    width: 327px;
+    height: 43px;
+    left: 942px;
+    top: 2771px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+}
+.latestNews .card3 .readmore{
+    position: absolute;
+    width: 90px;
+    height: 22px;
+    left: 942px;
+    top: 2831px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+    
+}
+.latestNews .btn-primary{
+    position: absolute;
+    width: 205.43px;
+    height: 55px;
+    left: 634.32px;
+    top: 2945px;
+    
+    background: #1C1D30;
+    border-radius: 4px;    
+}
+.partners h2{
+    position: absolute;
+    width: 476px;
+    height: 16px;
+    left: 531px;
+    top: 3239px;
+    
+    font-family: Fira Sans Condensed;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 16px;
+    /* identical to box height, or 33% */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+    
+    color: #000000;
+}
+
